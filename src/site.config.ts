@@ -81,7 +81,13 @@ export const theme: ThemeUserConfig = {
     /** Enable displaying a “Astro & Pure theme powered” link in your site’s footer. */
     credits: false,
     /** Optional details about the social media accounts for this site. */
-    //social: { github: 'https://github.com/cworld1/astro-theme-pure' }
+    //social: {
+    //github: 'https://github.com/cworld1/astro-theme-pure',
+    //twitter: 'https://twitter.com/yourusername',
+    //weibo: 'https://weibo.com/yourprofile',
+    //email: 'mailto:your-email@example.com'
+    //}
+    social: { email: 'mailto:zhou.zhiyuan@mail.ru' }
   },
 
   content: {
