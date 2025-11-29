@@ -7,7 +7,7 @@ export const theme: ThemeUserConfig = {
   /** Will be used in index page & copyright declaration */
   author: 'KOCHAB',
   /** Description metadata for your website. Can be used in page metadata. */
-  description: '---这里什么都没有---',
+  description: '网站的首页',
   /** The default favicon for your site which should be a path to an image in the `public/` directory. */
   favicon: '/favicon/favicon.ico',
   /** Specify the default language for this site. */
